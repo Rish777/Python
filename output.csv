@@ -1,0 +1,4 @@
+ID,FIRST_NAME,LAST_NAME,EMAIL,HIRE_DATE
+1,John,Doe,johndoe@example.com,2020-01-01
+2,Jane,Doe,janedoe@example.com,2020-02-01
+3,Bob,Smith,bobsmith@example.com,2020-03-01

@@ -1,0 +1,40 @@
+
+
+-- DDL statement for employees table:
+create or replace TABLE EMPLOYEES (
+	ID NUMBER(38,0),
+	FIRST_NAME VARCHAR(50),
+	LAST_NAME VARCHAR(50),
+	EMAIL VARCHAR(100),
+	HIRE_DATE DATE
+);
+
+
+-- DDL statement for employees_1 table:
+create or replace TABLE EMPLOYEES_1 (
+	ID NUMBER(38,0),
+	FIRST_NAME VARCHAR(50),
+	LAST_NAME VARCHAR(50),
+	EMAIL VARCHAR(100),
+	HIRE_DATE DATE
+);
+
+
+-- DDL statement for employees table:
+create or replace TABLE EMPLOYEES (
+	ID NUMBER(38,0),
+	FIRST_NAME VARCHAR(50),
+	LAST_NAME VARCHAR(50),
+	EMAIL VARCHAR(100),
+	HIRE_DATE DATE
+);
+
+
+-- DDL statement for employees_1 table:
+create or replace TABLE EMPLOYEES_1 (
+	ID NUMBER(38,0),
+	FIRST_NAME VARCHAR(50),
+	LAST_NAME VARCHAR(50),
+	EMAIL VARCHAR(100),
+	HIRE_DATE DATE
+);
